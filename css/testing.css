@@ -1,0 +1,23 @@
+body{
+
+  background-color: #c7e2b2;
+
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dashed;
+  border-color: blue;
+  border-width: 5px;
+  height: 100px;
+  width: 10%;
+}
+
+h2{
+  color: #0779e4;
+}
+
+h3{
+  color: #00005c;
+}
